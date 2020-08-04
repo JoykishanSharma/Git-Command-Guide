@@ -334,16 +334,12 @@ Open Terminal(Mac) or command prompt(Windows) and change directory to your proje
     <td>Basically updates and merges the changes on your local repo </td>
   </tr>
 
-  <tr>
-    <td>
-    
-    git pull [Repository_Link]  
-</td>
-    <td>This command fetches and merges changes on the remote server to your working directory.</td>
-    <td>Recommended</td>
-    <td>Basically updates and merges the changes on your local repo </td>
-  </tr>
-
-
 </table>
+
+
+<p align="center">
+    <img src="https://media.giphy.com/media/EtB1yylKGGAUg/giphy.gif" width="300">
+    <br>
+    Don't be frustrated with all this commands. <br>The best way to learn, is to make lots of mistakes.
+</p>
 
