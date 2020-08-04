@@ -16,8 +16,4 @@ Version Control System (VCS) for tracking changes in your project files.
     <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="300">
     <br>
     When your project files are corrupted <br>and you can't recover them
-<<<<<<< HEAD
 </p>
-=======
-</p>
->>>>>>> 7aab75adff0af502a738326097d790f9fa057ed4
