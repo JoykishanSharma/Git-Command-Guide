@@ -12,5 +12,8 @@ Version Control System (VCS) for tracking changes in your project files.
     <li><b>Local & remote repository --> </b>Git save our files first at our Local repository(i.e. on our computer) then we push(upload) it onto a remote repository such as Github/ GitBucket</li>
 </ul>
 
-<p align="center"><img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="300">
-<br>When your project files are corrupted <br>and you can't recover them</p>
+<p align="center">
+    <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="300">
+    <br>
+    When your project files are corrupted <br>and you can't recover them
+</p>
