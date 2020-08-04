@@ -12,6 +12,7 @@ Open Terminal(Mac) or command prompt(Windows) and change directory to your proje
     <th>Recommendation</th>
     <th>Note</th>
   </tr>
+  
   <tr>
     <td>
 
