@@ -42,7 +42,7 @@ Follow the steps to Push/Upload our project to Github using Command line.
 
 12. For the First Time Users, It will ask for your Github username and password. This will be needed for first time only.
 
-** Note : For Pushing any changes to the repo/project, you just need to follow step <b><i>5, 6 and 10.</b></i>**
+** Note : For Pushing any changes to the repo/project, you just need to follow step <b><i>6, 7 and 11.</b></i>**
 
 That’s all
 
