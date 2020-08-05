@@ -3,24 +3,12 @@
 Welcome, In this Repo you will find the basic or the getting starter knowledge about the git version control
 
 We have divided the repo in few main parts:-
-<ol>
-    <li> 
-        [What is Git?](https://github.com/JoykishanSharma/General-Knowledge-about-Git/blob/master/what_is_git.md)
-    </li>
-    <li> 
-        [Concept of Git](https://github.com/JoykishanSharma/General-Knowledge-about-Git/blob/master/concepts_of_git.md)
-    </li>
-    <li> 
-        [Basic Git Terminology](https://github.com/JoykishanSharma/General-Knowledge-about-Git/blob/master/git_basic_terminology.md)
-    </li>
-    <li> 
-        [Git Commands](https://github.com/JoykishanSharma/General-Knowledge-about-Git/blob/master/basic_commands.md)
-    </li>
-</ol>
+1. [What is Git?](https://github.com/JoykishanSharma/General-Knowledge-about-Git/blob/master/what_is_git.md)
+2. [Concept of Git](https://github.com/JoykishanSharma/General-Knowledge-about-Git/blob/master/concepts_of_git.md)
+3. [Basic Git Terminology](https://github.com/JoykishanSharma/General-Knowledge-about-Git/blob/master/git_basic_terminology.md)
+4. [Git Commands](https://github.com/JoykishanSharma/General-Knowledge-about-Git/blob/master/basic_commands.md)
 
-<br>
-
-If you want to add or modify any file, feel free to clone and pull request.
+If you want to add or modify any file, feel free to make a pull request.
 
 <br>
 
