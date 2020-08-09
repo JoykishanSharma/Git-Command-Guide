@@ -1,4 +1,4 @@
-<h2>General Knowledge About Git</h2>
+<h2> Git Command Guide </h2>
 
 Welcome, In this Repo you will find the basic or the getting starter knowledge about the git version control
 
