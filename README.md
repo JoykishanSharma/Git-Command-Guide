@@ -9,7 +9,7 @@ We have divided the repo in few main parts:-
 4. [Git Commands](https://github.com/JoykishanSharma/General-Knowledge-about-Git/blob/master/basic_commands.md)
 5. [Push Project to GitHub (New User)](https://github.com/JoykishanSharma/General-Knowledge-about-Git/blob/master/push_project_to_github(new_user).md)
 6. [Push Project to GitHub (Old User)](https://github.com/JoykishanSharma/General-Knowledge-about-Git/blob/master/push_project_to_github(old_user).md)
-7. [Versio Control (Git) - Lecture by MIT](https://missing.csail.mit.edu/2020/version-control/)
+7. [Version Control (Git) - Lecture by MIT](https://missing.csail.mit.edu/2020/version-control/)
 
 If you want to add or modify any file, feel free to make a pull request.
 
